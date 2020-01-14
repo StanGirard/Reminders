@@ -19,7 +19,11 @@ A good project always starts with a good editor. Here are a couple links to help
 
 #### AWS
 - [AWS Athena](aws/athena/README.md)
+- [Serverless Framework](aws/serverless/README.md)
 - [Serverless SQS](aws/serverless/examples/aws-sqs-send-messages/README.md)
+
+#### Architecture as code
+- [Serverless Framework](aws/serverless/README.md)
 
 
 
