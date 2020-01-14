@@ -1,0 +1,33 @@
+service: sendqueue
+plugins:
+  - serverless-bundle
+  - serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  stage: dev
+  memorySize: 128
+  region: eu-west-1
+  iamRoleStatements:
+    - Effect: "Allow"
+      Action:
+        - "sqs:SendMessage"
+        - "sqs:GetQueueUrl"
+        # Change down here -> Put ARN of your queue
+      Resource: "arn:aws:sqs:${self:provider.region}:1234567890:request"
+    - Effect: "Allow"
+      Action:
+        - "sqs:ListQueues"
+        # Change down here -> Put ARN of your queue
+      Resource: "arn:aws:sqs:${self:provider.region}:1234567890:*"
+
+
+functions:
+  hello:
+    handler: handler.main
+    events:
+      - http:
+          path: queue
+          method: post
+
