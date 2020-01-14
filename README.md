@@ -13,7 +13,9 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 - [Markdown](markdown/README.md)
 
 ---
-### Cloud 
+### **Cloud** 
+
+#### AWS
 - [AWS Athena](aws/athena/README.md)
 - [Serverless SQS](aws/serverless/examples/aws-sqs-send-messages/README.md)
 
