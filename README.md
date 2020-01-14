@@ -6,5 +6,5 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 
 ## Cheat Sheets
 
-- (AWS Athena)[aws/athena/README.md]
+- [AWS Athena](aws/athena/README.md)
 
