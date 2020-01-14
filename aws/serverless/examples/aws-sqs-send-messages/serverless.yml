@@ -1,13 +1,13 @@
 service: sendqueue
 plugins:
   - serverless-bundle
-  - serverless-offline
 
 provider:
   name: aws
   runtime: nodejs12.x
   stage: dev
   memorySize: 128
+  # Change down here -> Put your location
   region: eu-west-1
   iamRoleStatements:
     - Effect: "Allow"
