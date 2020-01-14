@@ -9,8 +9,10 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 ## Cheat Sheets
 
 --- 
-### Notes
-- [Markdown](markdown/README.md)
+### Editor
+A good project always starts with a good editor. Here are a couple links to help you get started
+- [Markdown Cheat Sheet](editor/markdown/README.md)
+- [Oh My ZSH](editor/oh-my-zsh/README.md)
 
 ---
 ### **Cloud** 
