@@ -1,3 +1,5 @@
+![AWS SQS Presentation](images/SQS-presentation.png)
+
 # AWS SQS Send messages
 
 In this example we will show you how to send messages to an SQS Queue with a NodeJS lambda function
