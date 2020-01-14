@@ -11,9 +11,9 @@ Oh My Zsh is an open source, community-driven framework for managing your [zsh](
 
 Visit [Oh My ZSH](https://github.com/ohmyzsh/ohmyzsh) Github Repo for all the lastest informations on how to install
 
-## **Go Further**
+# **Go Further**
 
-### ITerm2 users
+## ITerm2 users
 
 If you want to pimp up your Oh My ZSH installation I recommend following [Jazz Up Your “ZSH” Terminal In Seven Steps](https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/)
 
