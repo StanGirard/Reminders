@@ -85,6 +85,9 @@ WHERE crawl = 'CC-MAIN-2018-05'
 
 This will return all the hostname from Norway that were crawled in May 2018
 
+![](images/AWS-ATHENA-NORWAY-EXAMPLE.png
+)
+
 ```SQL
 SELECT COUNT(*) AS count,
        url_host_registered_domain
