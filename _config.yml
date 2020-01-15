@@ -1,5 +1,4 @@
-#theme: jekyll-theme-cayman
-remote_theme: kitian616/jekyll-TeXt-theme
+theme: jekyll-theme-cayman
 title: The Hitchikers Guide for Developers
 
 plugins:
