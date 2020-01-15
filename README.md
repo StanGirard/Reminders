@@ -5,18 +5,9 @@
 I got tired of always having to look for ages for things I've already done or found.
 Here is my Cheat Sheets for all the technologies, frameworks, tools I encountered. Please feel free to make pull requests
 
-* TOC {:toc}
 
 ## Cheat Sheets
 --- 
-
-
-### Editor
---- 
-A good project always starts with a good editor. Here are a couple links to help you get started
-- [Markdown Cheat Sheet](editor/markdown/README.md)
-- [Oh My ZSH](editor/oh-my-zsh/README.md)
-
 
 ### **Cloud** 
 ---
@@ -32,12 +23,16 @@ A good project always starts with a good editor. Here are a couple links to help
 #### Provider
 - [Digital Ocean](https://m.do.co/c/f9dca2b1ecc8)
 
-
-### **Web**
+### Data Science
 ---
 
-- [Jekyll](web/jekyll/README.md)
+- [Dataiku](https://www.dataiku.com/)
 
+### **Editor**
+--- 
+A good project always starts with a good editor. Here are a couple links to help you get started
+- [Markdown Cheat Sheet](editor/markdown/README.md)
+- [Oh My ZSH](editor/oh-my-zsh/README.md)
 
 ### **Monitoring**
 ---
@@ -46,8 +41,8 @@ A good project always starts with a good editor. Here are a couple links to help
 
 - [Netdata](monitoring/netdata/README.md): Real-time performance monitoring 
 
-
-### Data Science
+### **Web**
 ---
 
-- [Dataiku](https://www.dataiku.com/)
+- [Jekyll](web/jekyll/README.md)
+
