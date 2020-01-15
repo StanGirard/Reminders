@@ -18,6 +18,15 @@
 ## Go Further
 ---
 
+### **Awesome Jekyll's Plugins**
+
+#### **jekyll-toc**
+
+A GitHub Pages compatible Table of Contents generator without a plugin or JavaScript
+
+- [Github](https://github.com/allejo/jekyll-toc)
+
+
 ### **List of awesome Jekyll's Theme**
 
 #### **Just the docs**
