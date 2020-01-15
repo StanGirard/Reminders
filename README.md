@@ -8,15 +8,18 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 {% include toc.html html=content %}
 
 ## Cheat Sheets
-
 --- 
+
+
 ### Editor
+--- 
 A good project always starts with a good editor. Here are a couple links to help you get started
 - [Markdown Cheat Sheet](editor/markdown/README.md)
 - [Oh My ZSH](editor/oh-my-zsh/README.md)
 
----
+
 ### **Cloud** 
+---
 
 #### AWS
 - [AWS Athena](cloud/aws/athena/README.md)
@@ -29,20 +32,22 @@ A good project always starts with a good editor. Here are a couple links to help
 #### Provider
 - [Digital Ocean](https://m.do.co/c/f9dca2b1ecc8)
 
----
+
 ### **Web**
+---
 
 - [Jekyll](web/jekyll/README.md)
 
----
 
 ### **Monitoring**
+---
 
 #### Performance
 
 - [Netdata](monitoring/netdata/README.md): Real-time performance monitoring 
 
----
+
 ### Data Science
+---
 
 - [Dataiku](https://www.dataiku.com/)
