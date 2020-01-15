@@ -6,6 +6,7 @@ I got tired of always having to look for ages for things I've already done or fo
 Here is my Cheat Sheets for all the technologies, frameworks, tools I encountered. Please feel free to make pull requests
 
 
+
 ## Cheat Sheets
 
 --- 
@@ -35,8 +36,8 @@ A good project always starts with a good editor. Here are a couple links to help
 
 ---
 
-### **Tools**
+### **Monitoring**
 
-#### Monitoring
+#### Performance
 
-- [Netdata](tools/netdata/README.md): Real-time performance monitoring 
+- [Netdata](monitoring/netdata/README.md): Real-time performance monitoring 
