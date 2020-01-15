@@ -41,3 +41,8 @@ A good project always starts with a good editor. Here are a couple links to help
 #### Performance
 
 - [Netdata](monitoring/netdata/README.md): Real-time performance monitoring 
+
+---
+### Data Science
+
+- [Dataiku](https://www.dataiku.com/)
