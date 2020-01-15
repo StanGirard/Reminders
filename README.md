@@ -1,5 +1,5 @@
 ![](images/presentation.png)
-
+[![HitCount](http://hits.dwyl.io/StanGirard/The-hitchikers-guide-for-developers.svg)](http://hits.dwyl.io/StanGirard/The-hitchikers-guide-for-developers)
 # The Hitchikers Guide for Developers
 
 I got tired of always having to look for ages for things I've already done or found.
@@ -33,4 +33,10 @@ A good project always starts with a good editor. Here are a couple links to help
 
 - [Jekyll](web/jekyll/README.md)
 
+---
 
+### **Tools**
+
+#### Monitoring
+
+- [Netdata](tools/netdata/README.md): Real-time performance monitoring 
