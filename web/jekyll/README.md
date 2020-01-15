@@ -2,12 +2,25 @@
 
 # Jekyll 
 
+
+## Description 
+---
 [Jekyll](https://jekyllrb.com/) allows you to easily host static website to [Github Pages](https://pages.github.com/)
 
----
-## List of awesome Jekyll's Theme
 
-### Just the docs
+## Links
+---
+
+- [Website](https://jekyllrb.com/)
+- [Github](https://github.com/jekyll/jekyll)
+
+
+## Go Further
+---
+
+### **List of awesome Jekyll's Theme**
+
+#### **Just the docs**
 
 A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.
 Easily hosted on GitHub Pages with few dependencies.
