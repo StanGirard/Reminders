@@ -1,2 +1,5 @@
 theme: jekyll-theme-cayman
 title: The Hitchikers Guide for Developers
+
+plugins:
+  - jekyll-admin
