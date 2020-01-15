@@ -5,7 +5,7 @@
 I got tired of always having to look for ages for things I've already done or found.
 Here is my Cheat Sheets for all the technologies, frameworks, tools I encountered. Please feel free to make pull requests
 
-{% include toc.html html=content %}
+* TOC {:toc}
 
 ## Cheat Sheets
 --- 
