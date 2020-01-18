@@ -46,4 +46,5 @@ A good project always starts with a good editor. Here are a couple links to help
 
 - [Jekyll](web/jekyll/README.md)
 - [Nginx](web/nginx/README.md)
+- [Portia](web/portia/README.md) -> Web Scraping with scrapy
 
