@@ -39,14 +39,14 @@ A good project always starts with a good editor. Here are a couple links to help
 
 #### Performance
 
-- [Netdata](monitoring/netdata/README.md): Real-time performance monitoring 
+- [Netdata](monitoring/netdata/README.md):  Real-time performance monitoring dashboard
 
 ### **Web**
 ---
 
 - [Jekyll](web/jekyll/README.md)
 - [Nginx](web/nginx/README.md)
-- [Portia](web/portia/README.md) -> Web Scraping with scrapy
+- [Portia](web/portia/README.md): Web Interface for scraping with scrapy
 
 ### **TODO**
 
