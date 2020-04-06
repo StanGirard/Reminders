@@ -1,6 +1,6 @@
 ![](images/presentation.png)
 [![HitCount](http://hits.dwyl.io/StanGirard/The-hitchikers-guide-for-developers.svg)](http://hits.dwyl.io/StanGirard/The-hitchikers-guide-for-developers)
-# The Hitchikers Guide for Developers
+# The Hitchhikers Guide for Developers
 
 I got tired of always having to look for ages for things I've already done or found.
 Here is my Cheat Sheets for all the technologies, frameworks, tools I encountered. Please feel free to make pull requests
