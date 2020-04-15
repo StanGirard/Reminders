@@ -27,6 +27,7 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 ---
 
 - [Dataiku](https://www.dataiku.com/)
+- [NTK](https://www.nltk.org/)
 
 ### **Editor**
 --- 
