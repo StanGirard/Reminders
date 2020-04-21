@@ -54,4 +54,5 @@ A good project always starts with a good editor. Here are a couple links to help
 - [GitHunt](https://github.com/kamranahmedse/githunt)
 - [V](https://github.com/vlang/v)
 - [Secure-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server/blob/master/README.md)
+- [Javascript-algo](https://github.com/trekhleb/javascript-algorithms)
 
