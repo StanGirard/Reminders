@@ -13,18 +13,25 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 ---
 
 #### AWS
+
 | Name | Description | Free |
 | ------------- | ------------- | ------------- |
 |[**AWS Athena**](https://aws.amazon.com/fr/athena/) | Query on S3 Objects | Paid|
-|[**Serverless Framework**](https://serverless.com/) | Serverless Easy  Free |
+
 |[**Serverless SQS**](https://aws.amazon.com/sqs/) | Easy queue service on AWS | Paid |
 
 
 #### Architecture as code
-- [Serverless Framework](cloud/aws/serverless/README.md)
+
+| Name | Description | Free |
+| ------------- | ------------- | ------------- |
+|[**Serverless Framework**](https://serverless.com/) | Serverless Easy | Free |
 
 #### Provider
-- [Digital Ocean](https://m.do.co/c/f9dca2b1ecc8)
+| Name | Description | Free |
+| ------------- | ------------- | ------------- |
+|[Digital Ocean](https://m.do.co/c/f9dca2b1ecc8)| Cloud provider for developers & small entreprises (First 100$ free) | Paid|
+
 
 ### Data Science
 ---
