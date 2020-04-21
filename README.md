@@ -13,11 +13,12 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 ---
 
 #### AWS
-| Name | Description | Tutorial | Free |
-| ------------- | ------------- | ------------- |------------- |
-|[**AWS Athena**](https://aws.amazon.com/fr/athena/) | Query on S3 Objects | [AWS Athena](cloud/aws/athena/README.md) | Premium|
-| [**Serverless Framework**](https://serverless.com/) | Serverless Easy | [Serverless Framework](cloud/aws/serverless/README.md) | Free |
-- [Serverless SQS](cloud/aws/serverless/examples/aws-sqs-send-messages/README.md)
+| Name | Description | Free |
+| ------------- | ------------- | ------------- |
+|[**AWS Athena**](https://aws.amazon.com/fr/athena/) | Query on S3 Objects | Paid|
+|[**Serverless Framework**](https://serverless.com/) | Serverless Easy  Free |
+|[**Serverless SQS**](https://aws.amazon.com/sqs/) | Easy queue service on AWS | Paid |
+
 
 #### Architecture as code
 - [Serverless Framework](cloud/aws/serverless/README.md)
