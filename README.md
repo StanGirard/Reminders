@@ -1,6 +1,6 @@
 ![](images/presentation.png)
 [![HitCount](http://hits.dwyl.io/StanGirard/The-hitchikers-guide-for-developers.svg)](http://hits.dwyl.io/StanGirard/The-hitchikers-guide-for-developers)
-# The Hitchikers Guide for Developers
+# The Hitchhikers Guide for Developers
 
 I got tired of always having to look for ages for things I've already done or found.
 Here is my Cheat Sheets for all the technologies, frameworks, tools I encountered. Please feel free to make pull requests
@@ -27,6 +27,7 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 ---
 
 - [Dataiku](https://www.dataiku.com/)
+- [NTK](https://www.nltk.org/)
 
 ### **Editor**
 --- 
@@ -47,6 +48,7 @@ A good project always starts with a good editor. Here are a couple links to help
 - [Jekyll](web/jekyll/README.md)
 - [Nginx](web/nginx/README.md)
 - [Portia](web/portia/README.md): Web Interface for scraping with scrapy
+- [Ghost](https://ghost.org/): Bloging like wordpress but faster and cleaner
 
 ### **TODO**
 
