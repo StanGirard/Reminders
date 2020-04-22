@@ -35,8 +35,11 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 ### Data Science
 ---
 
-- [Dataiku](https://www.dataiku.com/)
-- [NTK](https://www.nltk.org/)
+| Name | Description | Free |
+| ------------- | ------------- | ------------- |
+|[Dataiku](https://www.dataiku.com/)| Easy Datascience | Freemium|
+|[NTK](https://www.nltk.org/)| Datascience Python library | Free|
+
 
 ### **Editor**
 --- 
