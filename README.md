@@ -44,8 +44,11 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 ### **Editor**
 --- 
 A good project always starts with a good editor. Here are a couple links to help you get started
-- [Markdown Cheat Sheet](editor/markdown/README.md)
-- [Oh My ZSH](editor/oh-my-zsh/README.md)
+| Name | Description | Free |
+| ------------- | ------------- | ------------- |
+|[Markdown Cheat Sheet](editor/markdown/README.md)| Markdown Cheat Sheet | Free|
+|[Oh My ZSH](editor/oh-my-zsh/README.md) | Oh My ZSH | Free|
+
 
 ### **Monitoring**
 ---
