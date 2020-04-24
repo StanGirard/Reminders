@@ -68,14 +68,18 @@ A good project always starts with a good editor. Here are a couple links to help
 |[Jekyll](web/jekyll/README.md)| Static Blog Generator with Github| Free|
 |[Nginx](web/nginx/README.md) | Reverse Proxy| Free|
 |[Portia](web/portia/README.md)| Web Interface for scraping with scrapy | Free|
+|[Traefik](https://github.com/containous/traefik)| HTTP reverse proxy and load balancer | Free|
 |[Ghost](https://ghost.org/)| Bloging like wordpress but faster and cleaner| Free|
 
 
 ### **TODO**
+| Name | Description | Free |
+| ------------- | ------------- | ------------- |
+|[Virgilio](https://github.com/virgili0/Virgilio)| | |
+|[GitHunt](https://github.com/kamranahmedse/githunt)| | |
+|[V](https://github.com/vlang/v)| | |
+|[Secure-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server/blob/master/README.md)| | |
+|[Javascript-algo](https://github.com/trekhleb/javascript-algorithms)| | |
 
-- [Virgilio](https://github.com/virgili0/Virgilio)
-- [GitHunt](https://github.com/kamranahmedse/githunt)
-- [V](https://github.com/vlang/v)
-- [Secure-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server/blob/master/README.md)
-- [Javascript-algo](https://github.com/trekhleb/javascript-algorithms)
+
 
