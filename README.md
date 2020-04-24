@@ -63,10 +63,13 @@ A good project always starts with a good editor. Here are a couple links to help
 ### **Web**
 ---
 
-- [Jekyll](web/jekyll/README.md)
-- [Nginx](web/nginx/README.md)
-- [Portia](web/portia/README.md): Web Interface for scraping with scrapy
-- [Ghost](https://ghost.org/): Bloging like wordpress but faster and cleaner
+| Name | Description | Free |
+| ------------- | ------------- | ------------- |
+|[Jekyll](web/jekyll/README.md)| Static Blog Generator with Github| Free|
+|[Nginx](web/nginx/README.md) | Reverse Proxy| Free|
+|[Portia](web/portia/README.md)| Web Interface for scraping with scrapy | Free|
+|[Ghost](https://ghost.org/)| Bloging like wordpress but faster and cleaner| Free|
+
 
 ### **TODO**
 
