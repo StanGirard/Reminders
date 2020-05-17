@@ -71,7 +71,7 @@ Here is my Cheat Sheets for all the technologies, frameworks, tools I encountere
 |[**Ghost**](https://ghost.org/)| Bloging like wordpress but faster and cleaner| Free|
 
 
-### **TODO**
+### TODO
 | Name | Description | Free |
 | ------------- | ------------- | ------------- |
 |[**Virgilio**](https://github.com/virgili0/Virgilio)| | |
